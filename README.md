@@ -9,7 +9,7 @@ ConvSim is a web application that simulates convolution operations used in convo
 
 | Workflow          | Status                                                                                          |
 |-------------------|-------------------------------------------------------------------------------------------------|
-| Lint Code Base    | ![Badge](https://img.shields.io/github/workflow/status/jpvitan/convsim-web/Lint%20Code%20Base)  |
+| LCB               | ![Badge](https://img.shields.io/github/workflow/status/jpvitan/convsim-web/Lint%20Code%20Base)  |
 | CodeQL            | ![Badge](https://img.shields.io/github/workflow/status/jpvitan/convsim-web/CodeQL)              |
 | Dependency Review | ![Badge](https://img.shields.io/github/workflow/status/jpvitan/convsim-web/Dependency%20Review) |
 
