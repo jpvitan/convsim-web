@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "ConvSim",
+  "name": "ConvSim",
+  "description": "ConvSim is a web application that simulates convolution operations used in convolutional neural networks or CNNs.",
   "icons": [
     {
       "src": "favicon.ico",
