@@ -1,26 +1,18 @@
-# ConvSim
+<h1 align="center">ConvSim</h1>
+<p align="center">ConvSim is a web application that simulates convolution operations used in convolutional neural networks or CNNs.</p>
 
 
-ConvSim is a web application that simulates convolution operations used in convolutional neural networks or CNNs.
+![Badge](https://img.shields.io/github/package-json/v/jpvitan/convsim-web)
+![Badge](https://img.shields.io/github/license/jpvitan/convsim-web)
 
 
-## ✅ Workflows
+## License
 
 
-| Workflow          | Status                                                                                          |
-|-------------------|-------------------------------------------------------------------------------------------------|
-| LCB               | ![Badge](https://img.shields.io/github/workflow/status/jpvitan/convsim-web/Lint%20Code%20Base)  |
-| CodeQL            | ![Badge](https://img.shields.io/github/workflow/status/jpvitan/convsim-web/CodeQL)              |
-| Dependency Review | ![Badge](https://img.shields.io/github/workflow/status/jpvitan/convsim-web/Dependency%20Review) |
+This project is under the [MIT license](https://github.com/jpvitan/convsim-web/blob/master/LICENSE). Please read the terms and conditions stated within the license before attempting any modification or distribution of the software.
 
 
-## 🤝 License
-
-
-[MIT License](https://github.com/jpvitan/convsim-web/blob/master/LICENSE)
-
-
-## ©️ Copyright
+## Copyright
 
 
 Developed and Designed by Justine Paul Sanchez Vitan.
